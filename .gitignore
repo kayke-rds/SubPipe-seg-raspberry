@@ -4,3 +4,7 @@
 /*.jpg
 /compare*
 /yolo_seg
+*.o
+*out*
+/torch_checkpoints
+/.zed
