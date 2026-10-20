@@ -1,7 +1,7 @@
 /venv
 /dump*
-/*.png
-/*.jpg
+#/*.png
+#/*.jpg
 /compare*
 /yolo_seg
 *.o
