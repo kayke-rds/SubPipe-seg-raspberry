@@ -1,5 +1,5 @@
 /* yolo26n_seg_layout.h -- GERADO por export_yolo26n_seg.py. NAO EDITAR.
- * Origem: best.onnx  (Ultralytics YOLO26n-seg model trained on ../UnitedDataset/train/fold5_data.yaml)
+ * Origem: best.onnx  (Ultralytics YOLO26n-seg model trained on /home/Cake/Documentos/UFRB/TCC/SubPipeOriginalDivision/train/fold3_data.yaml)
  * Blob: float32 little-endian, tensores alinhados a 64 B; offsets em NUMERO DE FLOATS a partir do inicio. */
 #ifndef YOLO26N_SEG_LAYOUT_H
 #define YOLO26N_SEG_LAYOUT_H

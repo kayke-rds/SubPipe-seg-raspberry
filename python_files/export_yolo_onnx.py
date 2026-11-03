@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 
-model = YOLO("/home/Cake/treino_redes_tcc_exp2/Comparative-study-of-cnn-based-architectures-on-subpipe/runs/segment/runs/yolo26_31_10/fold4/weights/best.pt")
+model = YOLO("/home/Cake/treino_redes_tcc_exp2/runs/segment/runs/yolo26-backbone-freeze-square-image/fold3/weights/best.pt")
 
 model.export(
     format="onnx",
